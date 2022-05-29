@@ -1,5 +1,5 @@
-### Hi! 👋 I'm a CS student trying to learn more in frontend development and UX/UI design. 👩🏻‍💻
-### Outside of school, I love to design✍🏻, draw🖼, hike⛰, and ski⛷! 
+### Hi!👋 My name is Kyuri and I'm a CS student interested in learning more backend development and UX/UI design. 👩🏻‍💻
+### Outside of coding, I love to design✍🏻, draw🖼, and hike⛰!
 
 <!--
 **kyurijung/kyurijung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
