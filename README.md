@@ -1,4 +1,4 @@
-### Hi!👋 My name is Kyuri and I'm a CS student interested in learning more backend development and UX/UI design. 👩🏻‍💻
+### Hi!👋  My name is Kyuri and I'm a CS student interested in learning more backend development and UX/UI design. 👩🏻‍💻
 ### Outside of coding, I love to design✍🏻, draw🖼, and hike⛰!
 
 <!--
