@@ -1,4 +1,4 @@
-### Hi!👋  My name is Kyuri and I'm a CS student interested in learning more backend development and UX/UI design. 👩🏻‍💻
+### Hi there, I'm Kyuri! 👋  Welcome to my creative space, where I like to share my best projects!
 
 <!--
 **kyurijung/kyurijung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
