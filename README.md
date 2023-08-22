@@ -1,4 +1,4 @@
-### Hi there, I'm Kyuri! 👋  Welcome to my creative space, where I like to share my best projects!
+### Hi there, I'm Kyuri! 👋  Welcome to my creative space, where I like to share my best projects :)
 
 <!--
 **kyurijung/kyurijung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
