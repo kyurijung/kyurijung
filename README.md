@@ -1,1 +1,3 @@
-![kirby](https://github.com/user-attachments/assets/dcbf0cc8-cfc7-48be-9d19-496bd29479be)
+<p align="center">
+  <img width="300" height="250" src="https://tenor.com/en-CA/view/kirby-gif-27306089">
+</p>
