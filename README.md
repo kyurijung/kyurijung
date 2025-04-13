@@ -1,3 +1,1 @@
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/22dc5607-f798-45b3-be3c-f8e61632e9a3" width="240px" align="center">
-</p>
+![kirby](https://github.com/user-attachments/assets/ba19fedd-05a4-455e-964b-0b177a72c2fc)
