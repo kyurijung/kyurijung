@@ -1,3 +1,5 @@
-<img align="center">
-  ![kirby](https://github.com/user-attachments/assets/f4cd2aac-de36-4793-8897-706a2c75cfd5)"
-</img>
+<p align="center">
+  <samp>
+    <img src="https://tenor.com/b0JIX.gif" width="300px" align="center">
+  </samp>
+</p>
