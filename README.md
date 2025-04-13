@@ -35,6 +35,8 @@ My name is Kyuri, and I'm a full-stack developer and designer. Welcome to my cre
 <img src="https://img.shields.io/badge/MaterialUI-282C34?logo=mui&logoColor=007FFF" alt="Material UI logo" title="Material UI" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwind logo" title="Tailwind" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/UNIX-282C34?logo=gnubash&logoColor=white" alt="UNIX logo" title="UNIX" height="25" />&nbsp; 
+<img src="https://img.shields.io/badge/ChatGPT-282C34?logo=openai&logoColor=white" alt="ChatGPT logo" title="ChatGPT" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/StackOverflow-282C34?logo=stackoverflow&logoColor=F58025" alt="Stack Overflow logo" title="Stack Overflow" height="25" />
 
 <p align="center">
   <img src="https://media1.tenor.com/m/aM8DwnxMRasAAAAC/kirby.gif" align="center" width="300" />
