@@ -15,7 +15,6 @@ My name is Kyuri, and I'm a full-stack developer and designer. Welcome to my cre
 <img src="https://img.shields.io/badge/BrightScript-282C34?logo=television&logoColor=FFFFFF" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/SceneGraph-282C34?logo=television&logoColor=FFFFFF" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/zsh-282C34?logo=terminal&logoColor=white" height="25" />&nbsp; 
-<img src="https://img.shields.io/badge/UNIX-282C34?logo=gnubash&logoColor=white" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=5391FE" height="25" />
 
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25" />&nbsp; 
