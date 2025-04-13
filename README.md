@@ -1,4 +1,4 @@
-## 👋 Hi there
+## 👋 Hi there!
 
 My name is Kyuri, and I'm a full-stack developer and designer. Welcome to my creative space, where I share my best projects and some work-in-progress experiments as I learn new tools. Feel free to pick a repository and explore :)
 
