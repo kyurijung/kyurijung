@@ -37,8 +37,7 @@ My name is Kyuri, and I'm a full-stack developer and designer. Welcome to my cre
 <img src="https://img.shields.io/badge/StackOverflow-282C34?logo=stackoverflow&logoColor=F58025" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/ChatGPT-282C34?logo=openai&logoColor=white" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/Copilot-282C34?logo=githubcopilot&logoColor=white" height="25" />&nbsp; 
-<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="25" />&nbsp; 
-<img src="https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=FFFFFF" height="25" />
+<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="25" />
 
 <p align="center">
   <img src="https://media1.tenor.com/m/aM8DwnxMRasAAAAC/kirby.gif" align="center" width="300" />
