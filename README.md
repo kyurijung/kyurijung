@@ -11,7 +11,7 @@ My name is Kyuri, and I'm a full-stack developer and designer. Welcome to my cre
 <img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599C" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=FA7343" height="25" />&nbsp; 
-<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" height="25" />&nbsp; 
+<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=007396" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/BrightScript-282C34?logo=television&logoColor=FFFFFF" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/SceneGraph-282C34?logo=television&logoColor=FFFFFF" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/zsh-282C34?logo=terminal&logoColor=white" height="25" />&nbsp; 
@@ -24,6 +24,7 @@ My name is Kyuri, and I'm a full-stack developer and designer. Welcome to my cre
 <img src="https://img.shields.io/badge/SPFx-282C34?logo=microsoft&logoColor=0078D4" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/MaterialUI-282C34?logo=mui&logoColor=007FFF" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwindcss&logoColor=06B6D4" height="25" />&nbsp; 
+<img src="https://img.shields.io/badge/JSON-282C34?logo=json&logoColor=white" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/SQL-282C34?logo=mysql&logoColor=4479A1" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25" />
 
