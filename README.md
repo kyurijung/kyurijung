@@ -4,11 +4,11 @@ My name is Kyuri, and I'm a full-stack developer and designer. Welcome to my cre
 
 ## 🛠 Technologies and tools
 
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />&nbsp; 
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />&nbsp; 
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" />&nbsp; 
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="25" />&nbsp; 
-<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" height="25" />&nbsp; 
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599C" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=FA7343" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=007396" height="25" />&nbsp; 
