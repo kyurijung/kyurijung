@@ -2,7 +2,7 @@
 
 My name is Kyuri, and I'm a full-stack developer and designer. Welcome to my creative space, where I share my best projects and some work-in-progress experiments as I learn new tools. Feel free to pick a repository and explore :)
 
-## 🛠 Technologies and tools
+## 🛠 Technologies and Tools
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />&nbsp;
